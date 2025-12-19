@@ -3,7 +3,7 @@ class BMW:
         return "BMW engine started"
 
     def speed(self):
-        return "BMW top speed is 250 km/h"
+        return "BMW top speed is 400 km/h"
 
 
 class Ferrari:
